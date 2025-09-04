@@ -6,7 +6,7 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Oouput
+# Output
 # Comprehensive Report on Generative AI  
 
 ## 1. Foundational Concepts of Generative AI  
